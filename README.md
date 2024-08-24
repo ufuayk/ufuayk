@@ -2,7 +2,7 @@
 
 <p>
   🛠️ > I’m currently working on some little <strong>Python & JavaScript</strong> projects.<br>
-  🧠 > I’m currently learning <strong>JavaScript</strong>, <strong>Golang</strong>, <strong>Python</strong> and its libraries.<br>
+  🧠 > I’m currently learning <strong>JavaScript</strong>, <strong>Rust</strong>, <strong>Python</strong> and its libraries.<br>
   🔭 > I'm interested in <strong>Photoshop</strong>, <strong>Arduino</strong>, <strong>GNU/Linux</strong> and <strong>Linux Shell.</strong>
 </p>
 
