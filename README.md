@@ -5,9 +5,9 @@
   🧠 > I’m currently learning <strong>JavaScript</strong>, <strong>Rust</strong>, <strong>Python</strong> and its libraries.<br>
   🔭 > I'm interested in <strong>Photoshop</strong>, <strong>Arduino</strong>, <strong>GNU/Linux</strong> and <strong>Linux Shell.</strong>
 
-  ✍️ > Don't forget to check out my technology/programming [blog](https://github.com/ufuayk/Blog).
+  ✍️ > Don't forget to check out my Turkish technology/programming [blog](https://github.com/ufuayk/Blog).
 </p>
 
-<h3 align="left">Languages and Frameworks</h3>
+<h3 align="left">Languages, Frameworks and Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,vue,supabase,python,flask&perline=5" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,nodejs,react,vue,supabase,python,flask,md&perline=6" alt="My Skills">
