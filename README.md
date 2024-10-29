@@ -5,7 +5,7 @@
   🧠 > I’m currently learning <strong>JavaScript</strong>, <strong>Rust</strong>, <strong>Python</strong> and its libraries.<br>
   🔭 > I'm interested in <strong>Photoshop</strong>, <strong>Arduino</strong>, <strong>GNU/Linux</strong> and <strong>Linux Shell.</strong>
 
-  ✍️ > Don't forget to check out my Turkish technology/programming [blog](https://ufuk.bearblog.dev).
+  ✍️ > Don't forget to check out my Turkish technology/programming <a href="https://ufuk.bearblog.dev" target="_blank" rel="noopener noreferrer">blog</a>.
 </p>
 
 <h3 align="left">Languages, Frameworks and Tools</h3>
