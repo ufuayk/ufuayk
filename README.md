@@ -11,3 +11,7 @@
 <h3 align="left">Languages, Frameworks and Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,nodejs,react,vue,supabase,python,flask,md&perline=6" alt="My Skills">
+
+<h3 align="left">Visitor Count</h3>
+
+![Visitor](https://profile-counter.glitch.me/ufuayk/count.svg)
