@@ -19,5 +19,3 @@
 <h3 align="left">My Streak</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ufuayk&theme=react)](https://git.io/streak-stats)
-
-<img width="49%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
