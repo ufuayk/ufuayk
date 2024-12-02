@@ -11,11 +11,3 @@
 <h3 align="left">Languages, Frameworks and Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,nodejs,npm,react,vue,supabase,python,flask,md,linux&perline=7" alt="My Skills">
-
-<h3 align="left">Visitor Count</h3>
-
-![Visitor](https://profile-counter.glitch.me/ufuayk/count.svg)
-
-<h3 align="left">My Streak</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ufuayk&theme=react)](https://git.io/streak-stats)
