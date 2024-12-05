@@ -10,4 +10,4 @@
 
 <h3 align="left">Languages, Frameworks and Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,nodejs,npm,react,vue,supabase,python,flask,md,linux&perline=7" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,supabase,nodejs,npm,react,vue,python,flask,md,bash,figma&perline=7" alt="My Skills">
