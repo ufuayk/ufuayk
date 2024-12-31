@@ -11,3 +11,5 @@
 <h3 align="left">Languages, Frameworks and Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,supabase,nodejs,npm,react,vue,python,flask,md,bash,figma&perline=7" alt="My Skills">
+
+<strong>December 31, 2024 Update: </strong> Rustlang is so damn good!
