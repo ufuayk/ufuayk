@@ -11,3 +11,7 @@
 <h3 align="left">Languages, Frameworks and Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,supabase,nodejs,npm,react,vue,python,flask,md,bash,figma&perline=7" alt="My Skills">
+
+<a href="mailto:ufuayk@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Contact Us">
+</a>
