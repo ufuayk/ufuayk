@@ -9,7 +9,7 @@
 > [!NOTE]
 > Don't forget to check out my <strong>Turkish</strong> technology/programming <a href="https://ufuk.bearblog.dev" target="_blank" rel="noopener noreferrer">blog</a>.
 
-<h3 align="left">Tech Stack (Alphabetical and, yes, a bit detailed.)</h3>
+<h3 align="left">My Tech Stack</h3>
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg)
