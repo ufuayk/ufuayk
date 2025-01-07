@@ -48,7 +48,3 @@
 <a href="mailto:ufuayk@gmail.com">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" alt="Gmail">
 </a>
-
-<a href="https://github.com/ufuayk/ufuayk/issues">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub">
-</a>
