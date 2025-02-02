@@ -22,9 +22,3 @@
 <a href="https://c.im/@ufuk">
   <img src="https://skillicons.dev/icons?i=mastodon" alt="Mastodon">
 </a>
-
-<h3 align="left">Update (January 24, 2025)</h3>
-
-> I will be away for a while. I will isolate myself from my projects for a while to learn something. My main goal will be “learning”. Both programming and life and lessons. When I come back I'll probably have a ton of those damn certificates. Yeah it's a bit of a useless endeavor but I think I'll like it, learning something and being given something to do with it, I don't know about you but it's very appealing to me.
->
-> Anyway, I'm off.
