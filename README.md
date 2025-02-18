@@ -1,4 +1,4 @@
-<img align="left" src="ufuk.gif" width="120">
+<img align="left" src="ufuk.gif" width="150">
 
 <h3 align="left">Hi, I'm <em>Ufuk</em>.</h3>
 
