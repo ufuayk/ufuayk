@@ -6,3 +6,5 @@
 
   Contact: [ufuayk@gmail.com](mailto:ufuayk@gmail.com)
 </p>
+
+`No need for fancy-flying READMEs. :p `
