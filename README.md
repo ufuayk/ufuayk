@@ -4,7 +4,7 @@
   I’m currently working on some <strong>Rust</strong>, <strong>Python</strong>, <strong>JavaScript</strong> projects. <br>
   I'm interested in <strong>Figma</strong>, <strong>Photoshop</strong>, <strong>Arduino</strong>, <strong>GNU/Linux</strong> and <strong>Shell.</strong>
 
-  Contact: [ufuayk@gmail.com](mailto:ufuayk@gmail.com)<br>
+  Contact: [contact@ufuk.party](mailto:contact@ufuk.party)<br>
   Portfolio: [ufuk.party](https://www.ufuk.party/)
 </p>
 
