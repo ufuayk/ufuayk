@@ -9,4 +9,7 @@
   Portfolio: [ufuk.party](https://www.ufuk.party/)
 </p>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 `No need for fancy-flying READMEs. :p `
