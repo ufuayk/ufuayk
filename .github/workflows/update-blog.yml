@@ -1,4 +1,4 @@
-name: Blog
+name: Blog Update PR
 
 on:
   schedule:
@@ -6,28 +6,40 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest posts from my blog.
+  blog-update:
     runs-on: ubuntu-latest
+    name: Create blog update PR
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Git identity
+      - name: Setup Git
         run: |
-          git config --global user.name "Ufuk"
-          git config --global user.email "ufuayk@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Run blog-post-workflow without committing
+      - name: Create new branch
+        run: |
+          git checkout -b blog-update-$(date +%s)
+
+      - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://ufuk.bearblog.dev/feed/?type=rss"
 
-      - name: Commit changes manually if any
+      - name: Commit changes
         run: |
           git add README.md
-          git diff --cached --quiet
-          git commit -m "readme update"
-          git push
+          git diff --cached --quiet || git commit -m "chore: update blog posts"
+          git push origin HEAD
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          title: "chore: update blog posts"
+          body: "This PR updates the blog section in the README automatically."
+          branch: ${{ github.ref_name }}
+          base: main
+          commit-message: "chore: update blog posts"
