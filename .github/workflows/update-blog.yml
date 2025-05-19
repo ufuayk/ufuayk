@@ -1,0 +1,31 @@
+name: Blog
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' 
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest posts from my blog.
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update blog posts in README
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://ufuk.bearblog.dev/feed/?type=rss"
+
+      - name: Configure Git identity
+        run: |
+          git config --global user.name "Ufuk"
+          git config --global user.email "ufuayk@users.noreply.github.com"
+
+      - name: Commit changes if any
+        run: |
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update blog posts [automated]"
+          git push
