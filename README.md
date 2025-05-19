@@ -10,6 +10,9 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [WSL Kurulumu ve Öneriler](https://ufuk.bearblog.dev/windows-subsystem-for-linux/)
+- [Python&#39;da Koşul Akışı](https://ufuk.bearblog.dev/python-kosul/)
+- [Temel Linux Komutları](https://ufuk.bearblog.dev/temel-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 `No need for fancy-flying READMEs. :p `
