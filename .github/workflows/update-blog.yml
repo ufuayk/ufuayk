@@ -24,10 +24,10 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://ufuk.bearblog.dev/feed/?type=rss"
-          commit_message: ""
 
       - name: Commit changes manually if any
         run: |
           git add README.md
-          git diff --cached --quiet || git commit -m "Update blog posts [manual commit]"
+          git diff --cached --quiet
+          git commit -m "readme update"
           git push
